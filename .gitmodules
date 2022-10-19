@@ -1,0 +1,4 @@
+[submodule "simde-sys/simde"]
+	path = simde-sys/simde
+	url = https://github.com/simd-everywhere/simde.git
+	branch = master

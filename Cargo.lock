@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "simde-rs"
 version = "0.1.0"
+
+[[package]]
+name = "simde-sys"
+version = "0.1.0"
